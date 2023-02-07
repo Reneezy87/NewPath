@@ -1201,8 +1201,8 @@ section.contact-us #contact button {
   float: right;
   font-size: 13px;
   color: #fff;
-  background: rgb(219,138,222);
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%);
+  background: rgb(217,151,23);
+  background: linear-gradient(-145deg, rgba(217,151,23,1) 0%, rgba(217,200,23,1) 100%);
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -1235,13 +1235,13 @@ section.contact-us ul.social-icons li a {
   text-align: center;
   line-height: 44px;
   background-color: #fff;
-  color: #dc8cdb;
+  color: rgba(217,151,23,1);
   border-radius: 50%;
   transition: all .5s;
 }
 
 section.contact-us ul.social-icons li a:hover {
-  background-color: #dc8cdb;
+  background-color: rgba(217,200,23,1);
   color: #fff;
 }
 
