@@ -247,7 +247,7 @@ header
 */
 .background-header {
   background: rgb(219,138,222) !important;
-  background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%) !important;
+  background: linear-gradient(-145deg, rgba(217,151,23,1) 0%, rgba(246,191,159,1) 100%) !important;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -257,7 +257,7 @@ header
 }
 
 .header-area {
-  /*background-image: url(../images/header-bg.png);*/
+  background-image: url(../images/header-bg.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -328,7 +328,7 @@ header
   font-weight: 400;
   font-size: 14px;
   text-transform: capitalize;
-  color: #D96236;
+  color: #FFF;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -341,8 +341,8 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #D96236!important;
-  opacity: 0.75;
+  color: #FFF !important;
+  opacity: 0.90;
 }
 
 .background-header .main-nav .nav li:hover a,
