@@ -1866,6 +1866,11 @@ body {
   }
 }
 
+.logoP {
+  max-height: 150px;
+  background: transparent;
+}
+
 @media (max-width: 767px) {
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     display: none;
