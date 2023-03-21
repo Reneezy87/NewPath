@@ -718,6 +718,7 @@ section.main-banner {
   font-weight: 500;
   text-transform: capitalize;
   color: #777777;;
+  padding-left:15px;
 }
 
 .main-banner .header-text h2 {
