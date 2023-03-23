@@ -42,6 +42,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
   padding: 0;
   border: 0;
   outline: 0;
+  
 }
 
 .clearfix:after {
@@ -735,6 +736,7 @@ section.main-banner {
 .main-banner .header-text h2 em {
   font-style: normal;
   color: #D96236;
+  font-family: 'Antipasto Pro', sans-serif;
 }
 
 .main-banner .main-button-gradient {
@@ -1870,6 +1872,7 @@ body {
 .logoP {
   max-height: 150px;
   background: transparent;
+
 }
 
 @media (max-width: 767px) {
@@ -1914,3 +1917,4 @@ body {
     font-size: 22px;
   }
 }
+
